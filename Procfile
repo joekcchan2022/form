@@ -1,1 +1,1 @@
-web: python -m http.server $PORT
+web: serve -s .
